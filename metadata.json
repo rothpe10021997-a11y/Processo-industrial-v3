@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Process Operation v3",
+  "description": "Industrial capacity simulation tool for process engineering. Calculates operator loads, identifies bottlenecks, and manages machine configurations for Suction and Shaping stages.",
+  "requestFramePermissions": []
+}
